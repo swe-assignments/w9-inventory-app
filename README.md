@@ -5,9 +5,10 @@
 | Features 	| As a user...                                                                      	|
 |----------	|-----------------------------------------------------------------------------------	|
 | Tier 1   	| I want to view all items in the inventory.<br>I want to view any individual item. 	|
-| Tier 3   	| I want to remove an item from the inventory.                                      	|
-| Tier 4   	| I want to remove an item from the inventory.                                      	|
-| Tier 5   	| CSS or Pick your next feature.                                                    	|
+| Tier 2 	| I want to addn item from the inventory.                                      	|
+| Tier 3  	| I want to remove an item from the inventory.                                      	|
+| Tier 4  	| I want to edit and update an item from the inventory.|
+| Tier 5 	| CSS or Pick your next feature.                                                    	|
 
 
 
